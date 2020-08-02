@@ -1,0 +1,1 @@
+CountDownTimer with SeekBar. Created with Nick Walter EggTimer idea and Coding in Flow. When changing progress on SeekBar timer value changing as well. Clicking button makes timer start from setted progress. Simply connection.
